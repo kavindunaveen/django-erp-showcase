@@ -434,21 +434,11 @@ The production module supports production planning, raw-material usage, producti
 
 ## Sales Analytics Dashboards
 
-![ Sales Analytics 1](screenshots/dashboards1.png)
-![ Sales Analytics 2](screenshots/dashboards2.png)
+The analytics dashboards provide management with visual insights into sales performance, customer activity, product movement, and business trends.
 
+![Sales Analytics Dashboard 1](screenshots/sales-dashboard-overview.png)
 
-
-
-Planned examples:
-
-- Management Dashboard
-- Inventory Management
-- Sales Workflow
-- Purchase Orders
-- Goods Received Notes
-- Production Planning
-- Delivery Management
+![Sales Analytics Dashboard 2](sales-dashboard-performance.png)
 
 ---
 
