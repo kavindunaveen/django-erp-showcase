@@ -434,8 +434,8 @@ The production module supports production planning, raw-material usage, producti
 
 ## Sales Analytics Dashboards
 
-![ Sales Analytics 1](screenshots/dashboard1.png)
-![ Sales Analytics 2](screenshots/dashboard2.png)
+![ Sales Analytics 1](screenshots/dashboards1.png)
+![ Sales Analytics 2](screenshots/dashboards2.png)
 
 
 
