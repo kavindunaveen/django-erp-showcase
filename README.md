@@ -438,7 +438,7 @@ The analytics dashboards provide management with visual insights into sales perf
 
 ![Sales Analytics Dashboard 1](screenshots/sales-dashboard-overview.png)
 
-![Sales Analytics Dashboard 2](sales-dashboard-performance.png)
+![Sales Analytics Dashboard 2](screenshots/sales-dashboard-performance.png)
 
 ---
 
