@@ -391,7 +391,17 @@ Only sanitized documentation, architecture examples, screenshots, and demonstrat
 
 # 📸 Screenshots
 
-Sanitized application screenshots will be added here.
+<img width="1890" height="860" alt="image" src="https://github.com/user-attachments/assets/f0291975-1675-41ee-afe0-adeb8565b202" />
+<img width="1890" height="866" alt="image" src="https://github.com/user-attachments/assets/cb85c0ed-48e9-463d-8547-67584a9cca9e" />
+<img width="1210" height="732" alt="image" src="https://github.com/user-attachments/assets/bd006239-920e-4f2d-a915-53fea7713eaf" />
+<img width="1292" height="810" alt="image" src="https://github.com/user-attachments/assets/65ba49dc-f310-4d97-a3ff-27e408d439e9" />
+<img width="1251" height="835" alt="image" src="https://github.com/user-attachments/assets/e0a38d74-d66c-405e-9574-ebc72463b536" />
+<img width="1260" height="857" alt="image" src="https://github.com/user-attachments/assets/6e34421f-50eb-4b94-aea8-ea151c3dce7e" />
+<img width="1256" height="867" alt="image" src="https://github.com/user-attachments/assets/a5e056c9-70b7-4b0a-802c-ea03428d3e07" />
+
+
+
+
 
 Planned examples:
 
