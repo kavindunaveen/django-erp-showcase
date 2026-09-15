@@ -389,16 +389,53 @@ Only sanitized documentation, architecture examples, screenshots, and demonstrat
 
 ---
 
-# 📸 Screenshots
+# 📸 Application Screenshots
 
-<img width="1890" height="860" alt="image" src="https://github.com/user-attachments/assets/f0291975-1675-41ee-afe0-adeb8565b202" />
-<img width="1890" height="866" alt="image" src="https://github.com/user-attachments/assets/cb85c0ed-48e9-463d-8547-67584a9cca9e" />
-<img width="1210" height="732" alt="image" src="https://github.com/user-attachments/assets/bd006239-920e-4f2d-a915-53fea7713eaf" />
-<img width="1292" height="810" alt="image" src="https://github.com/user-attachments/assets/65ba49dc-f310-4d97-a3ff-27e408d439e9" />
-<img width="1251" height="835" alt="image" src="https://github.com/user-attachments/assets/e0a38d74-d66c-405e-9574-ebc72463b536" />
-<img width="1260" height="857" alt="image" src="https://github.com/user-attachments/assets/6e34421f-50eb-4b94-aea8-ea151c3dce7e" />
-<img width="1256" height="867" alt="image" src="https://github.com/user-attachments/assets/a5e056c9-70b7-4b0a-802c-ea03428d3e07" />
+The following screenshots are sanitized examples from the ERP interface. Sensitive company information and production data have been removed or replaced.
 
+## Executive Dashboard
+
+The management dashboard provides a centralized view of important business information and operational activity.
+
+![ERP Executive Dashboard](screenshots/executive-dashboard.png)
+
+---
+
+## Inventory Management
+
+The inventory module manages product information, stock availability, stock movements, adjustments, and historical inventory records.
+
+![Inventory Management](screenshots/inventory-management.png)
+
+---
+
+## Sales Workflow
+
+The sales module supports customer transactions from quotation through invoicing, payment tracking, and delivery-related processes.
+
+![Sales Workflow](screenshots/salesdashboard1.png)
+![Sales Workflow](screenshots/salesdashboard2.png)
+
+---
+
+## Procurement & Goods Receiving
+
+The procurement workflow manages suppliers, purchase orders, pending receipts, Goods Received Notes (GRN), and inventory updates.
+
+![Procurement and GRN](screenshots/procurement.png)
+
+---
+
+## Production Management
+
+The production module supports production planning, raw-material usage, production orders, finished-goods output, and operational production records.
+
+![Production Management](screenshots/production-management.png)
+
+## Sales Analytics Dashboards
+
+![ Sales Analytics 1](screenshots/dashboard1.png)
+![ Sales Analytics 2](screenshots/dashboard2.png)
 
 
 
