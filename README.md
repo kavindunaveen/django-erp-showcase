@@ -397,7 +397,7 @@ The following screenshots are sanitized examples from the ERP interface. Sensiti
 
 The management dashboard provides a centralized view of important business information and operational activity.
 
-![ERP Executive Dashboard](screenshots/Executive Dashboard.png)
+![ERP Executive Dashboard](screenshots/executive-dashboard.png)
 
 ---
 
